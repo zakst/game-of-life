@@ -1,0 +1,11 @@
+{
+  "name": "sidekicker",
+  "version": "1.0.0",
+  "description": "conways game of life",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
